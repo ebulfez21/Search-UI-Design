@@ -1,0 +1,66 @@
+.icon {
+  width: 32px;
+  height: 32px;
+  display:flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+background-position: center;
+  background-size: contain;
+  align-items: center;
+  justify-content: center;
+float: left;
+}
+.sm{
+  width: 22px;
+  height: 22px;
+}
+.Boat {
+  background-image: url(../icon/Boat.svg);
+ 
+}
+.Economy{
+    background-image: url(../icon/Economy.svg);
+
+  
+    
+}
+.Furniture {
+  background-image: url(../icon/Furniture.svg);
+ 
+}
+.Holiday{
+    background-image: url(../icon/Holiday.svg);
+
+  
+    
+}
+.Job {
+  background-image: url(../icon/Job.svg);
+ 
+}
+.MC{
+    background-image: url(../icon/MC.svg);
+
+  
+    
+}
+.Property {
+  background-image: url(../icon/Property.svg);
+ 
+}
+.Travel{
+    background-image: url(../icon/Travel.svg);
+
+  
+    
+}
+.map {
+  background-image: url(../icon/map.svg);
+ 
+}
+.search{
+    background-image: url(../icon/search.svg);
+
+  
+    
+}
