@@ -26,3 +26,7 @@ Download your project files to your computer and you can start using your `index
 - Sign up icon with search box and part-time job search feature.
 - "Use from xəritədə" link.
 - Icons and links with category black.
+## Writer
+
+[Ebulfez-GitHub](https://github.com/ebulfez21/Search-UI-Design)
+[Ebulfez-Netlify](https://ebulfez-search-ui-design.netlify.app/)
