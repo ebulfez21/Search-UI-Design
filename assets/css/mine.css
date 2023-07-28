@@ -5,7 +5,14 @@ body {
   background: #f7f4ff;
   height: 100vh;
 }
-
+.box-shadow{
+  position: absolute;
+  width: 421px;
+  height: 613px;
+  border-radius: 31px;
+background: #EFEBFD;
+z-index: -1;
+}
 .container {
   width: 640px;
   height: 464px;
