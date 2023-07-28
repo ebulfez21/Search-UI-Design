@@ -5,13 +5,13 @@ body {
   background: #f7f4ff;
   height: 100vh;
 }
-.box-shadow{
+.box-shadow {
   position: absolute;
   width: 421px;
   height: 613px;
   border-radius: 31px;
-background: #EFEBFD;
-z-index: -1;
+  background: #efebfd;
+  z-index: -1;
 }
 .container {
   width: 640px;
@@ -44,22 +44,22 @@ z-index: -1;
 }
 
 input::placeholder {
-    color: rgba(40, 26, 81, 0.54);
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-  }
-  
-  input {
-    width: 211px;
-    height: 24px;
-    border: none;
-  }
-  
-  input:focus {
-    outline: none;
-  }
+  color: rgba(40, 26, 81, 0.54);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+input {
+  width: 211px;
+  height: 24px;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
 .map-link {
   display: inline-flex;
   padding: 16px;
