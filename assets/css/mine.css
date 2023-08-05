@@ -40,7 +40,7 @@ body {
   align-items: center;
   gap: 10px;
   border-radius: 4px;
-  border: 1px solid v #dbd5ec;
+  border: 1px solid  #dbd5ec;
 }
 
 input::placeholder {
